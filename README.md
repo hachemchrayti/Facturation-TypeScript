@@ -1,2 +1,2 @@
 # Facturation-TypeScript
-projet de facturation devéloppé en TypeScript
+Projet de Facturation développé en TypeScript
